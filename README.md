@@ -6,10 +6,14 @@
 
 I publish proof-of-concept exploits for vulnerabilities that are already public and patched.
 
-![Focus](https://img.shields.io/badge/focus-offensive_security-crimson?style=flat-square)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/focus-offensive_security-crimson?style=flat-square" alt="Focus" />
+  &emsp;&emsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+</p>
 
 </div>
 

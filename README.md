@@ -1,5 +1,3 @@
-<h1 align="center">d4ytox</h1>
-
 <p align="center"><strong>Security researcher / Penetration tester</strong></p>
 
 <p align="center">I publish proof-of-concept exploits for vulnerabilities that are already public and patched.</p>

@@ -1,5 +1,18 @@
-## d4ytox
+<div align="center">
 
-Security researcher / Penetration tester
+# d4ytox
 
-I publish proof-of-concept exploits for vulnerabilities that are already public and patched. 
+**Security researcher / Penetration tester**
+
+I publish proof-of-concept exploits for vulnerabilities that are already public and patched.
+
+![Focus](https://img.shields.io/badge/focus-offensive_security-crimson?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+[![Website](https://img.shields.io/badge/website-0a0a0a?style=flat-square&logo=google-chrome&logoColor=white)](https://d4ytox.com)
